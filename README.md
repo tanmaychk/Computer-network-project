@@ -1,8 +1,8 @@
 
-# Mini Project for Computer Networks
+# Mini Project for Computer Network's
 Network Design for Shopping Complex
 
-## brief
+## Brief
 Computer networks have a significant impact on the working of an organization.
 Shopping Complexes nowadays depend on the proper functioning and analysis of
 their networks for payment, billing/invoices, communication, helpdesk services,
